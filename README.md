@@ -1,6 +1,6 @@
 # PyTorch Seq2Seq
 
-The main difference from original repo is update torchtext==0.12.0 with some additional functions.  
+The main difference from original repo is updated torchtext==0.12.0 with some additional functions.  
 
 ## Tutorials
 
