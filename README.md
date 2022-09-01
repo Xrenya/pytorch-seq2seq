@@ -4,7 +4,7 @@ The main difference from original repo is updated torchtext==0.12.0 with some ad
 
 ## Tutorials
 
-* 1. [Sequence to Sequence Learning with Neural Networks](https://github.com/Xrenya/pytorch-seq2seq/blob/main/1_Sequence_to_Sequence_Learning_with_Neural_Networks.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Xrenya/pytorch-seq2seq/blob/main/1_Sequence_to_Sequence_Learning_with_Neural_Networks.ipynb)
+* 1. - [Sequence to Sequence Learning with Neural Networks](https://github.com/Xrenya/pytorch-seq2seq/blob/main/1_Sequence_to_Sequence_Learning_with_Neural_Networks.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Xrenya/pytorch-seq2seq/blob/main/1_Sequence_to_Sequence_Learning_with_Neural_Networks.ipynb)
 
     This first tutorial covers the workflow of a PyTorch with torchtext seq2seq project. We'll cover the basics of seq2seq networks using encoder-decoder models, how to implement these models in PyTorch, and how to use torchtext to do all of the heavy lifting with regards to text processing. The model itself will be based off an implementation of Sequence to Sequence Learning with Neural Networks, which uses multi-layer LSTMs.
 
