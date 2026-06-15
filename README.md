@@ -28,7 +28,7 @@ The tutorials use PyTorch with Hugging Face Datasets for loading Multi30k and a 
 
     Continuing with the non-RNN based models, we implement the Transformer model from [Attention Is All You Need](https://arxiv.org/abs/1706.03762). This model is based solely on attention mechanisms and introduces Multi-Head Attention. The encoder and decoder are made of multiple layers, with each layer consisting of Multi-Head Attention and Positionwise Feedforward sublayers. This model is currently used in many state-of-the-art sequence-to-sequence and transfer learning tasks.
 
-*** LLM in progress
+### LLM in progress
 * 7 - 7_Tokenization_and_Language_Modeling_Data.ipynb
 - BPE/tokenization basics
 - causal LM dataset windows
