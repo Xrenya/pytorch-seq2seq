@@ -47,10 +47,9 @@ The tutorials use PyTorch with Hugging Face Datasets for loading Multi30k and a 
   - gradient accumulation
   - optional torch.compile
 
-Later, maybe:
-
-11_Data_Filtering_and_Dedup.ipynb
-12_SFT_and_DPO_Minimal.ipynb
+* 11 - 11_Data_Filtering_and_Dedup.ipynb
+* 12 - 12_SFT_and_DPO_Minimal.ipynb
+* 
 ## Reference
 1. https://github.com/bentrevett/pytorch-seq2seq
 2. https://github.com/spro/practical-pytorch
