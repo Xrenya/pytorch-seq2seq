@@ -30,22 +30,22 @@ The tutorials use PyTorch with Hugging Face Datasets for loading Multi30k and a 
 
 ### LLM in progress
 * 7 - 7_Tokenization_and_Language_Modeling_Data.ipynb
-- BPE/tokenization basics
-- causal LM dataset windows
-- train/val split, packing, masking
+  - BPE/tokenization basics
+  - causal LM dataset windows
+  - train/val split, packing, masking
 * 8 - 8_Decoder_Only_Transformer.ipynb
-- GPT-style blocks
-- causal self-attention
-- tied embeddings, RMSNorm/LayerNorm, GELU/SwiGLU
+  - GPT-style blocks
+  - causal self-attention
+  - tied embeddings, RMSNorm/LayerNorm, GELU/SwiGLU
 * 9 - 9_Pretraining_a_Small_Language_Model.ipynb
-- cross-entropy next-token training
-- sampling: temperature, top-k/top-p
-- checkpointing and eval perplexity
+  - cross-entropy next-token training
+  - sampling: temperature, top-k/top-p
+  - checkpointing and eval perplexity
 * 10 - 10_Scaling_and_Systems_Notes.ipynb
-- parameter/FLOP counting
-- mixed precision
-- gradient accumulation
-- optional torch.compile
+  - parameter/FLOP counting
+  - mixed precision
+  - gradient accumulation
+  - optional torch.compile
 
 Later, maybe:
 
